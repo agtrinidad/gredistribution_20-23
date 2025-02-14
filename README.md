@@ -1,6 +1,7 @@
 # gredistribution_20-23
 
-![UserMajor](https://github.com/user-attachments/assets/11423ca7-9262-4cca-a60a-f28707dc894f)
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/d0a9509e-4798-4438-8881-99f6b02c9a72" />
+
 [_A Tableau visualization of GRE score distributions, reflecting test takers from July 1, 2020 to June 30, 2023._](https://public.tableau.com/app/profile/agtrinidad/viz/DATAVIZ_17395012519360/SingleMajor#1)
 ***
 The Graduate Record Examinations, abbreviated as GRE, is a standardized test required for many Anglophone graduate schools, particularly in the United States and Canada. The test is owned, licensed, and administered by Educational Testing Service, an assessment organization headquartered in New Jersey, United States. ETS provides summary statistics of previous test cycles in order to contextualize scores for users.
