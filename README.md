@@ -1,6 +1,6 @@
 # gredistribution_20-23
 
-<img width="718" alt="image" src="https://github.com/user-attachments/assets/0de2deb6-d927-4b8e-93a3-74bd0f0fc860"/>
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/b6ce5fea-1a80-4bd8-83a3-23bcbc86fa31"/>
 
 [_A Tableau visualization of GRE score distributions, reflecting test takers from July 1, 2020 to June 30, 2023._](https://public.tableau.com/app/profile/agtrinidad/viz/DATAVIZ_17395012519360/SingleMajor#1)
 ***
